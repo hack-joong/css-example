@@ -27,6 +27,7 @@ export default function StyledComponent() {
       <Container>
         <Button>Normal Button</Button>
         <Button primary>Primary Button</Button>
+        <Button>New Button</Button>
       </Container>
     </div>
   );
